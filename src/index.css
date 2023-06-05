@@ -24,14 +24,14 @@ body {
   height: 100vh;
   width: 100%;
   max-width: 500px;
-  border: 1px solid mediumblue;
+  border: 1px solid steelblue;
   margin: auto;
 }
 
 header {
   width: 100%;
   padding: 0 0.25em;
-  background-color: mediumblue;
+  background-color: steelblue;
   color: aliceblue;
   display: flex;
   justify-content: space-evenly;
@@ -51,7 +51,7 @@ main {
 footer {
   width: 100%;
   padding: 0.25em;
-  background-color: mediumblue;
+  background-color: steelblue;
   color: aliceblue;
   display: grid;
   place-content: center;
@@ -148,7 +148,7 @@ button {
   padding: 0.5rem;
   font-size: 1rem;
   background-color: aliceblue;
-  color: mediumblue;
+  color: steelblue;
   cursor: pointer;
 }
 
