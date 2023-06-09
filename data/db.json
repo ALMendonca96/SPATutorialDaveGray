@@ -1,7 +1,19 @@
 {
   "items": [
-    { "id": 1, "checked": false, "item": "Red Lightsaber" },
-    { "id": 2, "checked": false, "item": "Black Helmet" },
-    { "id": 3, "checked": false, "item": "Obi-Wan's Robe" }
+    {
+      "id": 1,
+      "checked": false,
+      "item": "Red Lightsaber"
+    },
+    {
+      "id": 2,
+      "checked": true,
+      "item": "Black Helmet"
+    },
+    {
+      "id": 3,
+      "checked": true,
+      "item": "Obi-Wan's Robe"
+    }
   ]
 }
